@@ -189,8 +189,15 @@ Mi formación jurídica y tecnológica me permite abordar los proyectos desde un
 
 ## 🏆 Logros
 
+## 🏆 Logros
+
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=GsuiteTdf&theme=tokyonight&no-frame=false&no-bg=true&margin-w=8&margin-h=8&column=7" alt="Trofeos de GitHub de Gastón Cejas" />
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img
+      src="https://gh-trophy.cdnsoft.net/?username=GsuiteTdf&theme=tokyonight&no-frame=false&no-bg=true&margin-w=8&margin-h=8&column=7"
+      alt="Trofeos de GitHub de Gastón Cejas"
+    />
+  </a>
 </div>
 
 ---
