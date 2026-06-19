@@ -187,7 +187,6 @@ Mi formación jurídica y tecnológica me permite abordar los proyectos desde un
 
 ---
 
-## 🏆 Logros
 
 ## 🏆 Logros
 
