@@ -5,7 +5,7 @@
 </h3>
 
 <p align="center">
-  Java · SQL · Python · JavaScript · TypeScript · Desarrollo Web
+  Java · SQL · Python · FastAPI · React · TypeScript · PostgreSQL · Desarrollo Full Stack
 </p>
 
 <p align="center">
@@ -30,12 +30,13 @@
 
 ## 👨‍💻 Sobre mí
 
-Soy estudiante de la **Tecnicatura Universitaria en Programación de la Universidad Tecnológica Nacional**, actualmente cursando el tercer semestre. Me estoy formando en desarrollo de software, programación orientada a objetos, bases de datos, desarrollo web, análisis de datos y metodologías de sistemas.
+Soy estudiante de la **Tecnicatura Universitaria en Programación de la Universidad Tecnológica Nacional**, actualmente cursando el segundo año (cuarto semestre). Me estoy formando en desarrollo de software, programación orientada a objetos, bases de datos, desarrollo web full stack, análisis de datos y metodologías de sistemas.
 
 También soy **abogado, egresado en 2013**, y busco integrar mi experiencia profesional con la tecnología para desarrollarme en áreas como **backend, QA, análisis funcional y LegalTech**.
 
 - 🔭 Busco incorporarme a equipos de **desarrollo, QA o análisis funcional**.
 - 🌱 Actualmente profundizo en **Spring Boot, JPA, Hibernate, APIs REST, NoSQL y testing manual**.
+- 🧩 Este semestre desarrollé aplicaciones **full stack**: APIs REST con **FastAPI + SQLModel + PostgreSQL** (autenticación JWT en cookie HttpOnly, roles, Unit of Work y transacciones) y SPAs con **React + TypeScript** (TanStack Query, Form y Table, Zustand y Tailwind CSS).
 - ⚖️ Mi experiencia jurídica aporta análisis de casos, documentación, comunicación profesional, gestión de procesos y tratamiento responsable de información sensible.
 - 🤖 Utilizo IA generativa como apoyo para programar, documentar, depurar y analizar soluciones, siempre con revisión manual, contraste técnico y control de versiones.
 - 📍 Vivo en Córdoba Capital y cuento con disponibilidad presencial, híbrida o remota.
@@ -53,15 +54,37 @@ También soy **abogado, egresado en 2013**, y busco integrar mi experiencia prof
 ### Backend, bases de datos y persistencia
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=spring,hibernate,mysql,mongodb,gradle,postman&perline=6" alt="Spring, Hibernate, MySQL, MongoDB, Gradle y Postman" />
+  <img src="https://skillicons.dev/icons?i=fastapi,postgres,sqlite,docker,spring,hibernate,mysql,mongodb,gradle,postman&perline=10" alt="FastAPI, PostgreSQL, SQLite, Docker, Spring, Hibernate, MySQL, MongoDB, Gradle y Postman" />
 </div>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/FastAPI-APIs_REST_con_Python-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/SQLModel_%2F_Pydantic-ORM_y_validación-E92063?style=flat-square&logo=pydantic&logoColor=white" alt="SQLModel y Pydantic" />
+  <img src="https://img.shields.io/badge/PostgreSQL-Base_relacional-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/JWT-Cookie_HttpOnly_y_roles-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" alt="JWT" />
+  <img src="https://img.shields.io/badge/Unit_of_Work_%2F_Repository-Transacciones-6E4C9E?style=flat-square" alt="Unit of Work y Repository" />
+  <img src="https://img.shields.io/badge/Docker-PostgreSQL_y_pgAdmin-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/Java-POO_y_arquitectura_por_capas-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java POO" />
   <img src="https://img.shields.io/badge/SQL-Modelo_relacional_y_CRUD-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="SQL" />
   <img src="https://img.shields.io/badge/JDBC-Persistencia_de_datos-007396?style=flat-square" alt="JDBC" />
   <img src="https://img.shields.io/badge/JPA_%2F_Hibernate-En_formación-59666C?style=flat-square&logo=hibernate&logoColor=white" alt="JPA e Hibernate" />
-  <img src="https://img.shields.io/badge/APIs_REST-En_formación-009688?style=flat-square" alt="APIs REST" />
+  <img src="https://img.shields.io/badge/APIs_REST-FastAPI_y_Spring-009688?style=flat-square" alt="APIs REST" />
+</p>
+
+### Frontend moderno
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=react,ts,vite,tailwind,nodejs,pnpm&perline=6" alt="React, TypeScript, Vite, Tailwind CSS, Node.js y pnpm" />
+</div>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/React_19-SPA_por_features-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/TypeScript-Modo_strict-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript strict" />
+  <img src="https://img.shields.io/badge/TanStack-Query_%7C_Form_%7C_Table-FF4154?style=flat-square&logo=reactquery&logoColor=white" alt="TanStack Query, Form y Table" />
+  <img src="https://img.shields.io/badge/Zustand-Estado_global_persistido-443E38?style=flat-square" alt="Zustand" />
+  <img src="https://img.shields.io/badge/React_Router-Rutas_protegidas_por_rol-CA4245?style=flat-square&logo=reactrouter&logoColor=white" alt="React Router" />
+  <img src="https://img.shields.io/badge/Axios-Interceptores_y_cookies-5A29E4?style=flat-square&logo=axios&logoColor=white" alt="Axios" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS_4-Diseño_responsive-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
 </p>
 
 ### Herramientas, metodologías y análisis
@@ -72,6 +95,9 @@ También soy **abogado, egresado en 2013**, y busco integrar mi experiencia prof
 
 <p align="center">
   <img src="https://img.shields.io/badge/NetBeans-IDE-1B6AC6?style=flat-square&logo=apache-netbeans-ide&logoColor=white" alt="NetBeans" />
+  <img src="https://img.shields.io/badge/pgAdmin-Administración_de_PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" alt="pgAdmin" />
+  <img src="https://img.shields.io/badge/Postman-Colecciones_y_tests_de_API-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman" />
+  <img src="https://img.shields.io/badge/Swagger_%2F_OpenAPI-Documentación_de_APIs-85EA2D?style=flat-square&logo=swagger&logoColor=black" alt="Swagger y OpenAPI" />
   <img src="https://img.shields.io/badge/Jira-Gestión_de_tareas-0052CC?style=flat-square&logo=jira&logoColor=white" alt="Jira" />
   <img src="https://img.shields.io/badge/Trello-Organización_de_proyectos-0052CC?style=flat-square&logo=trello&logoColor=white" alt="Trello" />
   <img src="https://img.shields.io/badge/Scrum-Metodologías_ágiles-6DB33F?style=flat-square" alt="Scrum" />
@@ -94,6 +120,16 @@ También soy **abogado, egresado en 2013**, y busco integrar mi experiencia prof
 ---
 
 ## 🚀 Proyectos destacados
+
+### 🍔 Food Store full stack: sistema de pedidos de comida
+
+**Python · FastAPI · SQLModel · PostgreSQL · JWT · React · TypeScript · TanStack · Zustand · Tailwind CSS**
+
+Trabajo Práctico Integrador de Programación IV. Aplicación completa para un negocio de comidas: registro e inicio de sesión con JWT en cookie HttpOnly, catálogo paginado con búsqueda y filtros, carrito persistido, checkout y seguimiento de pedidos. Incluye un panel de administración con indicadores, ABM de categorías y productos, gestión de stock, máquina de estados de pedidos y administración de usuarios. Las compras se registran en una única transacción (Unit of Work) que descuenta y restituye el stock.
+
+[![Repositorio](https://img.shields.io/badge/Repositorio-Ver_en_GitHub-181717?style=for-the-badge&logo=github)](https://github.com/GsuiteTdf/TPI-FoodStore-Programacion4)
+[![Video demo](https://img.shields.io/badge/Video_demo-Google_Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1gqhW-hKeACAt6ENgzLzvurhS6TOAPVGs/view?usp=sharing)
+[![Video demo](https://img.shields.io/badge/Video_demo-Ver_en_YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/DLYFevjmmDA)
 
 ### 📦 Sistema de gestión de productos con código de barras
 
@@ -214,7 +250,7 @@ Mi formación jurídica y tecnológica me permite abordar los proyectos desde un
 <div align="center">
   <h3>🤝 Abierto a oportunidades de aprendizaje y colaboración</h3>
   <p>
-    Desarrollo junior · Backend · QA · Análisis funcional · LegalTech
+    Desarrollo junior · Backend · Full Stack · QA · Análisis funcional · LegalTech
   </p>
   <a href="mailto:gaston.cejas@gmail.com">
     <img src="https://img.shields.io/badge/Contactarme_por_correo-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Contactar por correo" />
